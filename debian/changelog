@@ -1,0 +1,17 @@
+python-libjuju (0.2.166) xenial; urgency=medium
+
+  * Automated build from git commit
+
+ -- Xav Paice <xav.paice@canonical.com>  Wed, 22 Feb 2017 16:52:36 +1300
+
+python-libjuju (0.2.166) xenial; urgency=medium
+
+  * Automated build from git commit
+
+ -- Xav Paice <xav.paice@canonical.com>  Wed, 22 Feb 2017 16:48:50 +1300
+
+python-libjuju (0.2.0) xenial; urgency=medium
+
+  * Initial release.
+
+ -- Xav Paice <xav.paice@canonical.com>  Wed, 22 Feb 2017 11:24:17 +1300
